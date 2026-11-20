@@ -66,6 +66,15 @@ An interactive dashboard was developed to visualize:
 - Home ownership
 - Loan purpose
 - Loan grade
+### Dashboard Preview
+
+#### Portfolio Overview
+
+![Portfolio Overview](05_Dashboard_Preview/Page%201.png)
+
+#### Risk Factors Analysis
+
+![Risk Factors Analysis](05_Dashboard_Preview/Page%202.png)
 
 ## Key Business Questions
 
